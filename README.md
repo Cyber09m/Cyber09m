@@ -46,18 +46,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cyber09m&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber09m&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Cyber09m&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center"><i>⭐️ Crafted with a more professional and polished profile tone</i></p>
