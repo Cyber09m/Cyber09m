@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Maurya</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Competitive Programmer</h3>
+<h3 align="center">Computer Science Student |AI ML| Full-Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cyber09m&label=Profile%20Views&color=0e75b6&style=flat" alt="Cyber09m" />
