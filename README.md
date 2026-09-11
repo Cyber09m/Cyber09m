@@ -73,13 +73,6 @@
 
 ---
 
-## 📊 Contribution Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber09m&theme=tokyonight&hide_border=true&area=true" alt="Vikas's Contribution Graph" width="100%" />
-</p>
-
----
 ## 📫 Connect With Me
 
 <p align="left">
